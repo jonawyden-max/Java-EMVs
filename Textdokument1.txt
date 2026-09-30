@@ -1,2 +1,2 @@
 Hallo
-Das ist mein Erstes Dokument in GitHub.
+Das ist mein erstes Dokument in GitHub.
