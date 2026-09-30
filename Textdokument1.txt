@@ -1,0 +1,2 @@
+Hallo
+Das ist mein Erstes Dokument in GitHub.
